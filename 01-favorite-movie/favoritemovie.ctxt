@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=favoritemovie
+comment0.text=\n\ i\ will\ describe\ my\ favorite\ movie\ in\ a\ few\ print\ statements\ here.\n\n\n\ @author\ (Eric\ Chen)\n\ @version\ (09/21/22)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
