@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Chen
+### First Name: Eric
+### GitHub Username: ericc380
 
 ---
 #### General Workflow: 
